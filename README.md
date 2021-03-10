@@ -13,3 +13,12 @@ Essa linha eu alterei diretamente no site ! QUE IMPRESSIONANTE !
 - `git log` // visualiza os pontos na linha do tempo // commit
 - `git status` // informa os status das alterações no nosso projeto
 - `git show` // apresenta determinado ponto na história
+- `git remote add origin repositoryLink` // para onde meu repositório local vai ser empurrado
+- `git push -u origin master` // primeiro push
+- `git branch` // gerenciar novas linhas do tempo
+- `git checkout commitUrl -- file` // manipula as linhas do tempo
+- `git merge` // unir as linhas do tempo
+- `git clone` // clona um projeto já iniciado
+- `git pull` // puxa as alterações que foram feitas no repositório remoto
+- `git config --local user.name "Your_Name"` // informar seu nome para o git
+- `git config --local user.email "yourEmail@example.com"` // informar seu email para o git
